@@ -1,3 +1,3 @@
 # DevOps
 This repo is for practising DevOps
--- adding via B1
+-- adding via maven branch
